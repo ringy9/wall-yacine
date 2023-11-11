@@ -35,7 +35,12 @@
     "servers" : [
 
 
-
+                     {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280725",
+            "type" : "iptv"
+        },
 
         {
             "title" : "SSC 1 HD",
