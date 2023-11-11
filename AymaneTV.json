@@ -43,20 +43,25 @@
             "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
             "type" : "iptv"
         },
-
+       {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296836",
+            "type" : "iptv"
+        },
 
 
        {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
             "type" : "iptv"
         },
                {
@@ -68,13 +73,13 @@
         {
             "title" : "beIN SPORTS 2 SD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280145",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280145",
             "type" : "iptv"
         },
                 {
@@ -86,13 +91,13 @@
        {
             "title" : "beIN SPORTS 3 SD",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 3 HD",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                {
@@ -104,13 +109,13 @@
         {
             "title" : "beIN SPORTS SD1",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD1",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
             "type" : "iptv"
         },
                 {
@@ -122,7 +127,7 @@
         {
             "title" : "beIN SPORTS SD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280145",
             "type" : "iptv"
         },
                 {
@@ -140,7 +145,7 @@
                 {
             "title" : "beIN SPORTS SD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                         {
