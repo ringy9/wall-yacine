@@ -51,23 +51,23 @@
         },
 
 
-       {
+         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-7Fhr5vIa70Hfq1lvlIukg/ts",
             "type" : "iptv"
         },
         {
@@ -106,22 +106,23 @@
             "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
             "type" : "iptv"
         },
-        {
-            "title" : "beIN SPORTS SD1",
+         {
+            "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
             "type" : "iptv"
         },
-                {
-            "title" : "beIN SPORTS HD1",
+        
+               {
+            "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/100",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
             "type" : "iptv"
         },
-                {
-            "title" : "beIN SPORTS FHD1",
+               {
+            "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdq-7Fhr5vIa70Hfq1lvlIukg/ts",
             "type" : "iptv"
         },
         {
