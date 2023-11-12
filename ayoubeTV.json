@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 15,
+            "int_interval" : 1,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "bc250bcfae7a799a",
-            "max_native" : "14c693a7cc7704ec",
-            "max_int" : "f06c1883efb27cfa"
+            "max_ban" : "70d0df6cfc8c15b5",
+            "max_native" : "befe943087cd2e25",
+            "max_int" : "e6aaab52fa333b3f"
         }
     ],
 
