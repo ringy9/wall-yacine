@@ -35,7 +35,7 @@
     "servers" : [
 
 
-                     {
+                      {
             "title" : "beIN SPORTS",
             "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
             "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280725",
@@ -56,17 +56,17 @@
         },
 
 
-         {
+       {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/393741",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/393741",
             "type" : "iptv"
         },
                {
@@ -111,17 +111,17 @@
             "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
             "type" : "iptv"
         },
-         {
+             {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/393741",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://tvofpalestine.live:80/play/P-CXOH7QSuAtaivNMKqdqwwWG0it6pLt2MMYge0ziDI/ts",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/393741",
             "type" : "iptv"
         },
                {
@@ -133,7 +133,7 @@
         {
             "title" : "beIN SPORTS SD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/280145",
+            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/393742",
             "type" : "iptv"
         },
                 {
