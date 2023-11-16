@@ -37,17 +37,17 @@
 
 
                        
-                      {
-            "title" : "beIN SPORTS",
-            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
-            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/3.ts",
-            "type" : "iptv"
-        },
 
         {
             "title" : "SSC 1 HD",
             "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
             "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
+            "type" : "iptv"
+        },
+                                       {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/27.ts",
             "type" : "iptv"
         },
        {
