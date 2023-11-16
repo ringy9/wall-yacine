@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 15,
+            "int_interval" : 1,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
@@ -11,9 +11,9 @@
             "iptv_active" : "on",
             "live_active" : "on",
 
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "ca-app-pub-6750415516336415/6704650399",
+            "admob_native" : "ca-app-pub-6750415516336415/2292716378",
+            "admob_int": "ca-app-pub-6750415516336415/8300588468",
 
             "fan_ban": "886964966006374_886965492672988",
             "fan_native": "886964966006374_886965646006306",
@@ -34,7 +34,7 @@
 
     "servers" : [
 
-
+              
 
 
         {
@@ -43,116 +43,128 @@
             "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
             "type" : "iptv"
         },
-
+                               {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/27.ts",
+            "type" : "iptv"
+        },
+       {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296836",
+            "type" : "iptv"
+        },
 
 
        {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
         
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS 2 SD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 HD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS 2 FHD",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
        {
             "title" : "beIN SPORTS 3 SD",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 3 HD",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                {
             "title" : "beIN SPORTS 3 FHD",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/6.ts",
             "type" : "iptv"
         },
-        {
-            "title" : "beIN SPORTS SD1",
+             {
+            "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
-                {
-            "title" : "beIN SPORTS HD1",
+        
+               {
+            "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
-                {
-            "title" : "beIN SPORTS FHD1",
+               {
+            "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
-            "link" : "http://212.224.84.200:2200/Plus/beIN_Sports1_SD-ar/tracks-v1a1/mono.m3u8",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/4.ts",
             "type" : "iptv"
         },
         {
             "title" : "beIN SPORTS SD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS HD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS FHD2",
             "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
-            "link" : "http://197.26.19.139:8000/Matrix80/Matrix80/437403",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/5.ts",
             "type" : "iptv"
         },
                 {
             "title" : "beIN SPORTS SD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS HD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8",
             "type" : "iptv"
         },
                         {
             "title" : "beIN SPORTS FHD3",
             "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
-            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/903",
+            "link" : "https://airmaxtv.online:443/airmaxprox66x/airmaxpro47x6/6.ts",
             "type" : "iptv"
         },
         
