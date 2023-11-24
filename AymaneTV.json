@@ -568,7 +568,7 @@
             "title" : "Download YACINE TV",
             "img" : "https://i.postimg.cc/Bnc809R4/Screenshot-20231124-184907-Google-Play-Store.jpg",
             "details" : "To watch the matches, download this application.",
-            "link" : "https://play.google.com/store/apps/details?id=app.yacine.Live3.YacineTV"
+            "referral" : "https://play.google.com/store/apps/details?id=app.yacine.Live3.YacineTV"
         }
 
     ]
