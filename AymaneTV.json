@@ -8,8 +8,8 @@
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
             "groups_news_active" : "on",
-            "iptv_active" : "on",
-            "live_active" : "on",
+            "iptv_active" : "off",
+            "live_active" : "off",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -563,35 +563,12 @@
 
     ],
     "news" : [
-        {
-            "title" : "Música",
-            "img" : "https://i.postimg.cc/3RS5BSfs/Untitled-2-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.png",
-            "details" : ".",
-            "referral" : ""
-        },
-        {
-            "title" : "Entretenimiento",
-            "img" : "https://i.postimg.cc/3RS5BSfs/Untitled-2-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.png",
-            "details" : ".",
-            "referral" : ""
-        },
-                {
-            "title" : "Educación",
-            "img" : "https://i.postimg.cc/3RS5BSfs/Untitled-2-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.png",
-            "details" : ".",
-            "referral" : ""
-        },
-                {
-            "title" : "Familia",
-            "img" : "https://i.postimg.cc/3RS5BSfs/Untitled-2-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.png",
-            "details" : ".",
-            "referral" : ""
-        },
+
                 {
             "title" : "DEPORTES",
             "img" : "https://i.postimg.cc/3RS5BSfs/Untitled-2-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.png",
-            "details" : ".",
-            "referral" : ""
+            "details" : ""To watch the matches, download this application."",
+            "link" : "https://play.google.com/store/apps/details?id=app.yacine.Live3.YacineTV"
         }
 
     ]
