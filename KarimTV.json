@@ -1,0 +1,599 @@
+{
+    "config" : [
+        {
+            "network" : "max",
+            "activate_ads" : "true",
+            "int_interval" : 1,
+
+            "groups_box_active" : "off",
+            "groups_matches_active" : "off",
+            "groups_news_active" : "on",
+            "iptv_active" : "on",
+            "live_active" : "on",
+
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "fan_ban": "886964966006374_886965492672988",
+            "fan_native": "886964966006374_886965646006306",
+            "fan_int": "886964966006374_886965572672980",
+
+            "iron_key": "17417cb4d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "70d0df6cfc8c15b5",
+            "max_native" : "befe943087cd2e25",
+            "max_int" : "e6aaab52fa333b3f"
+        }
+    ],
+
+
+
+
+    "servers" : [
+
+
+
+        
+          {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "https://airmaxtv.online:443/airmaxproxxd6/airmaxpro996ss/3.ts",
+            "type" : "iptv"
+        },
+        {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/54301",
+            "type" : "iptv"
+        },
+                               {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/135.ts",
+            "type" : "iptv"
+        },
+       {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/296836",
+            "type" : "iptv"
+        },
+
+
+          {
+            "title" : "beIN SPORTS 1 SD",
+            "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/278.ts",
+            "type" : "iptv"
+        },
+        
+               {
+            "title" : "beIN SPORTS 1 HD",
+            "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/278.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "beIN SPORTS 1 FHD",
+            "ico" : "https://i.postimg.cc/mDPk96P8/1.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/278.ts",
+            "type" : "iptv"
+        },
+        {
+            "title" : "beIN SPORTS 2 SD",
+            "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/280.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS 2 HD",
+            "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/280.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS 2 FHD",
+            "ico" : "https://i.postimg.cc/bY2dNWcv/2.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/280.ts",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS SD3",
+            "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/281.ts",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS HD3",
+            "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/281.ts",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS FHD3",
+            "ico" : "https://i.postimg.cc/NFT0J97X/3.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/281.ts",
+            "type" : "iptv"
+        },
+        
+                {
+            "title" : "beIN SPORTS SD4",
+            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/902",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS HD4",
+            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/902",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS FHD4",
+            "ico" : "https://i.postimg.cc/5yyzXj96/4.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/902",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS SD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/905",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS HD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/905",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS FHD5",
+            "ico" : "https://i.postimg.cc/6QKGdM5s/5.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/905",
+            "type" : "iptv"
+        },
+                {
+            "title" : "beIN SPORTS SD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/904",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS HD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/904",
+            "type" : "iptv"
+        },
+                        {
+            "title" : "beIN SPORTS FHD6",
+            "ico" : "https://i.postimg.cc/L6qfRq0W/6.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/904",
+            "type" : "iptv"
+        },
+       {
+            "title" : "beIN SPORTS SD7",
+            "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/907",
+            "type" : "iptv"
+        },
+               {
+            "title" : "beIN SPORTS HD7",
+            "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/907",
+            "type" : "iptv"
+        },
+               {
+            "title" : "beIN SPORTS FHD7",
+            "ico" : "https://i.postimg.cc/65DZQ9kp/7.png",
+            "link" : "http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/907",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "beIN SPORTS FHD8",
+            "ico" : "https://i.postimg.cc/PfSHLLcP/8.png",
+            "link" : "http://mo3ad.xyz:80/live/mo3adv0D02/mo3adv0D02/297.ts",
+            "type" : "iptv"
+        },
+
+                               {
+            "title" : "SSC 1 FHD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74690",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 2 FHD",
+            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74691",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 3 FHD",
+            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74692",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 4 FHD",
+            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74693",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 5 FHD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/74694",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "SSC EXTRA 1 FHD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/82494",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 2 FHD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://iptv.4ktezz.top:8080/QTMRg7C663JDplay.primestreams/sJAL4ChnH36a/82495",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN XTRA 1",
+            "ico" : "https://i.postimg.cc/TYFm2QCs/xtra1.png",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/50petfOkJW/355",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "⚽ beIN XTRA 2",
+            "ico" : "https://i.postimg.cc/yNzZcxqX/xtra2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/22.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 1",
+            "ico" : "https://i.postimg.cc/7PB0dq7w/fr1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/26.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 2",
+            "ico" : "https://i.postimg.cc/Y0yFWxkh/fr2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/27.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN French 3",
+            "ico" : "https://i.postimg.cc/y8RRD9G8/fr3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/28.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ①",
+            "ico" : "https://i.postimg.cc/Qtm1X3yg/eg1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ②",
+            "ico" : "https://i.postimg.cc/T1Pm14zz/eg2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/23.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "⚽ beIN English ③",
+            "ico" : "https://i.postimg.cc/qMzydWXn/eg3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/25.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFCᴴᴰ",
+            "ico" : "https://i.postimg.cc/2SLQng1m/afc.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/24.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFC 1ᴴᴰ",
+            "ico" : "https://i.postimg.cc/fb4xC5dd/afc1.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20543.ts",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "beIN Sports AFC 2ᴴᴰ",
+            "ico" : "https://i.postimg.cc/HLQbh50h/afc2.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20544.ts",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "beIN Sports AFC 3ᴴᴰ",
+            "ico" : "https://i.postimg.cc/bJp1cJ3N/afc3.png",
+            "link" : "http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20545.ts",
+            "type" : "iptv"
+        },
+
+
+
+        
+               {
+            "title" : "SSC 1 SD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/361",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 HD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/361",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 1 FHD",
+            "ico" : "https://i.postimg.cc/TwhHVD51/1.webp",
+            "link" : "http://server.sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54301.ts",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 2 SD",
+            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/362",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 2 HD",
+            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/362",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 2 FHD",
+            "ico" : "https://i.postimg.cc/Jhp2HqnS/2.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/362",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 3 SD",
+            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/363",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 3 HD",
+            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/363",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 3 FHD",
+            "ico" : "https://i.postimg.cc/ZRgsV56c/3.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/363",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 4 SD",
+            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/364",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 4 HD",
+            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/364",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 4 FHD",
+            "ico" : "https://i.postimg.cc/Z5hgGn2s/SSC5.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/364",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC 5 SD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/365",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 5 HD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/365",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC 5 FHD",
+            "ico" : "https://i.postimg.cc/jjx1j9sz/SSC6.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/365",
+            "type" : "iptv"
+        },
+
+               {
+            "title" : "SSC EXTRA 1 SD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/366",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 1 HD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/366",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 1 FHD",
+            "ico" : "https://i.postimg.cc/ZKN2sp7y/EXTRA1.webp",
+            "link" : "http://207.244.250.245:25461/AlphasportAR2/6XDgBRHyOb/366",
+            "type" : "iptv"
+        },
+               {
+            "title" : "SSC EXTRA 2 SD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/281462",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 2 HD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/281462",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "SSC EXTRA 2 FHD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/281462",
+            "type" : "iptv"
+        },
+      {
+            "title" : "SSC EXTRA 3 HD",
+            "ico" : "https://i.postimg.cc/VkBTm1cf/EXTRA2.webp",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/299730",
+            "type" : "iptv"
+        },
+              {
+            "title" : "Al Kass One HD",
+            "ico" : "https://i.postimg.cc/tTzmfm05/1.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/92.ts",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Two HD",
+            "ico" : "https://i.postimg.cc/sx6HfQgG/2.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/94.ts",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Three HD",
+            "ico" : "https://i.postimg.cc/SQDvf5fQ/3.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/96.ts",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Four HD",
+            "ico" : "https://i.postimg.cc/vTHSdLbd/4.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/98.ts",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Five HD",
+            "ico" : "https://i.postimg.cc/CL56PNcG/5.png",
+            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/100.ts",
+            "type" : "iptv"
+        },
+                      {
+            "title" : "Al Kass Six HD",
+            "ico" : "https://i.postimg.cc/VLhZ3Ch3/6.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/297008",
+            "type" : "iptv"
+        },
+                {
+            "title" : "KTV Sport 1HD",
+            "ico" : "https://i.postimg.cc/Pf7rF6th/SS.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1250",
+            "type" : "iptv"
+        },
+         {
+            "title" : "KTV Sport 2HD",
+            "ico" : "https://i.postimg.cc/Pf7rF6th/SS.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/245622",
+            "type" : "iptv"
+        },
+         {
+            "title" : "ARRIADIA HD",
+            "ico" : "https://i.postimg.cc/fLBgPprm/61n-Eii-PFRh-L.png",
+            "link" : "http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/11173",
+            "type" : "iptv"
+        },
+
+                       {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "https://ktpremium.com:443/partyplay999/bHIzQ3rxam/866066",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport 2",
+            "ico" : "https://i.postimg.cc/x1Y2L0ym/2.png",
+            "link" : "http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/1119.ts",
+            "type" : "iptv"
+        },
+                               {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://207.244.250.245:25461/alphasportAR1/a4h6VN1Cnb/835",
+            "type" : "iptv"
+        },
+                       {
+            "title" : "beIN SPORTS",
+            "ico" : "https://i.postimg.cc/ZqfydXLs/bein.png",
+            "link" : "http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/10",
+            "type" : "iptv"
+        },
+
+
+         {
+            "title" : "AD Sport 1",
+            "ico" : "https://i.postimg.cc/xTLQkkHY/1.png",
+            "link" : "https://ktpremium.com:443/partyplay999/bHIzQ3rxam/866066",
+            "type" : "iptv"
+        },
+
+      {
+            "title" : "AD Sport Premium 1",
+            "ico" : "https://i.postimg.cc/sXm2pKBX/o-h-2-15-ad-sports-premium-1.png",
+            "link" : "http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/880",
+            "type" : "iptv"
+        },
+               {
+            "title" : "AD Sport Premium 2",
+            "ico" : "https://i.postimg.cc/Y0yqP9zB/o-h-2-16-ad-sports-premium-1.png",
+            "link" : "http://server.sibfungold.info:8080/live/Audi27092018ertfg/Porsche20182609hfgt/54848.ts",
+            "type" : "iptv"
+        }
+
+    ],
+    "news" : [
+        {
+            "title" : "Música",
+            "img" : "https://i.postimg.cc/c4N9dGG0/3.png",
+            "details" : ".",
+            "referral" : ""
+        },
+        {
+            "title" : "Entretenimiento",
+            "img" : "https://i.postimg.cc/c4N9dGG0/3.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "Educación",
+            "img" : "https://i.postimg.cc/c4N9dGG0/3.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "Familia",
+            "img" : "https://i.postimg.cc/c4N9dGG0/3.png",
+            "details" : ".",
+            "referral" : ""
+        },
+                {
+            "title" : "DEPORTES",
+            "img" : "https://i.postimg.cc/c4N9dGG0/3.png",
+            "details" : ".",
+            "referral" : ""
+        }
+
+    ]
+
+}
