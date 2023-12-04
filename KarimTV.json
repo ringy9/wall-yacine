@@ -3,13 +3,13 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 5,
+            "int_interval" : 2,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
             "groups_news_active" : "on",
             "iptv_active" : "on",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -23,9 +23,9 @@
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "d3f42650079b6c13",
-            "max_native" : "91c93ae9c6da6b29",
-            "max_int" : "bf9766cdf3841f89",
+            "max_ban" : "fadc76b6ab256c5f",
+            "max_native" : "462afe3e68a3daa8",
+            "max_int" : "4e76e79f6630670e",
             
                "Enabled_Update_Activity":false,
                "Image_url":"https://drive.google.com/uc?export=download&id=1bP70_Bl-aCUPFp3prnse-qlLzNsFDkqy",
