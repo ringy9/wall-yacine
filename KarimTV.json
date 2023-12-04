@@ -794,7 +794,13 @@
     
     "category" : [
         {
-            "title" : "BIEN SPORT"
+            "title" : "BIEN SPORT (1080P)"
+        },
+                {
+            "title" : "BIEN SPORT(720P)"
+        },
+                {
+            "title" : "BIEN SPORT (480P)"
         },
         {
            "title" : "SSC SPORT"
