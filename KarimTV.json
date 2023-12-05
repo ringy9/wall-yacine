@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 1,
+            "int_interval" : 5,
 
             "groups_box_active" : "off",
             "groups_matches_active" : "off",
