@@ -69,7 +69,7 @@
         {
             "title" : "beIN SPORTS 1 SD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://odx.n960.site/x1/view_11.m3u8?t=X-G66GURi6VYqAufuqqSsg&x=1701866122&n=false",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/109",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (480P)"
         },
@@ -77,14 +77,14 @@
                {
             "title" : "beIN SPORTS 1 HD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://odx.n960.site/x1/view_11.m3u8?t=X-G66GURi6VYqAufuqqSsg&x=1701866122&n=false",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/109",
             "type" : "iptv",
             "namecat" : "BIEN SPORT(720P)"
         },
                {
             "title" : "beIN SPORTS 1 FHD",
             "ico" : "https://i.postimg.cc/ncTWVZgM/1.png",
-            "link" : "http://odx.n960.site/x1/view_11.m3u8?t=X-G66GURi6VYqAufuqqSsg&x=1701866122&n=false",
+            "link" : "http://iptvtree.net:8080/jinbox/mGDn7NqvgQpM8arMWz/109",
             "type" : "iptv",
             "namecat" : "BIEN SPORT (1080P)"
         },
@@ -691,21 +691,21 @@
               {
             "title" : "Al Kass One HD",
             "ico" : "https://i.postimg.cc/tTzmfm05/1.png",
-            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/92.ts",
+            "link" : "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master.m3u8",
             "type" : "iptv",
             "namecat" : "Al Kass"
         },
                       {
             "title" : "Al Kass Two HD",
             "ico" : "https://i.postimg.cc/sx6HfQgG/2.png",
-            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/94.ts",
+            "link" : "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laq/master.m3u8",
             "type" : "iptv",
             "namecat" : "Al Kass"
         },
                       {
             "title" : "Al Kass Three HD",
             "ico" : "https://i.postimg.cc/SQDvf5fQ/3.png",
-            "link" : "http://89.105.216.22:8080/live/bebosn/bebosn/96.ts",
+            "link" : "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3laq/master.m3u8",
             "type" : "iptv",
             "namecat" : "Al Kass"
         },
