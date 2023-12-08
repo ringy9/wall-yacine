@@ -27,13 +27,13 @@
             "max_native" : "462afe3e68a3daa8",
             "max_int" : "4e76e79f6630670e",
             
-               "Enabled_Update_Activity":false,
-               "Image_url":"https://drive.google.com/uc?export=download&id=1bP70_Bl-aCUPFp3prnse-qlLzNsFDkqy",
-               "Title":"New App",
+               "Enabled_Update_Activity":true,
+               "Image_url":"https://i.postimg.cc/wTGCQFj2/000.png",
+               "Title":"YACINE TV",
                "Description":"This application has expired and is no longer used, press the button below to download and install the latest application.",
                "Button_Text":"Update Now!",
-               "Redirect_Link":"https://www.google.com/",
-               "Cancelable":true
+               "Redirect_Link":"https://play.google.com/store/apps/details?id=app.yacinetv.Aymaneliveytv",
+               "Cancelable":false
         }
     ],
 
